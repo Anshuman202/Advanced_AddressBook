@@ -1,0 +1,16 @@
+The details for Tushar Anand are:
+Address: hill Apartment
+City: gurugram
+State: haryana
+Zip Code: 201001
+Phone Number: 9976543210
+Email: prakashranand@gmail.com
+
+
+The details for Random Person are:
+Address: Home
+City: City Name
+State: State Name
+Zip Code: 123456
+Phone Number: 1234657890
+Email: email@address.com
