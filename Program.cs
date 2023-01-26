@@ -1,4 +1,4 @@
-namespace AddressBook
+namespace AddressBook 
 {
     class Program
     {
